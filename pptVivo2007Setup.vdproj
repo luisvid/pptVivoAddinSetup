@@ -75,6 +75,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_CD324CCF54A3406CA4510C832E17AEA7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
         "MsmSig" = "8:_UNDEFINED"
@@ -400,6 +406,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD324CCF54A3406CA4510C832E17AEA7"
+            {
+            "SourcePath" = "8:pptvivo.nsi"
+            "TargetName" = "8:pptvivo.nsi"
+            "Tag" = "8:"
+            "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -472,7 +498,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:pptVivo! Addin"
         "ProductCode" = "8:{B6AC9A36-57FC-4C6D-9E8F-35A2B1FCAF63}"
-        "PackageCode" = "8:{473C3926-8B8B-44C8-B76C-2422D2AD6C50}"
+        "PackageCode" = "8:{260DC4D9-65BD-499A-9FC8-8771BEB1E0B5}"
         "UpgradeCode" = "8:{9AF31E54-F598-43A7-A88A-B0F1B802054A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
