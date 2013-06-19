@@ -15,37 +15,37 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_0626D3CE83C44E19895043D49A79A099"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_18569F54D16AC15A9DDBBAF37F799666"
+        "OwnerKey" = "8:_AD730B28F411435AAB348A51E1D3BAB6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_32915546CA384BAE8774381046FB72F5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_3C6ED3A73A1D1A18D9A21E444FC9BC04"
+        "OwnerKey" = "8:_18569F54D16AC15A9DDBBAF37F799666"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4A09BB018D287432E15F8E7393875FD4"
-        "OwnerKey" = "8:_90F30A3A619072A3901E55180517BDD8"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4A09BB018D287432E15F8E7393875FD4"
-        "OwnerKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
+        "MsmKey" = "8:_3C6ED3A73A1D1A18D9A21E444FC9BC04"
+        "OwnerKey" = "8:_AD730B28F411435AAB348A51E1D3BAB6"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_57C7B8BBEEF241BFA058FAE812C77306"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5C5E0A0ABE2F4AE095BB464479688449"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -57,20 +57,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_690A7C003CC0EB1C432B38B3A1C31254"
-        "OwnerKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
+        "MsmKey" = "8:_7BC515BA2A622A5E2ECC0EACB593E73B"
+        "OwnerKey" = "8:_AD730B28F411435AAB348A51E1D3BAB6"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7CC800794962470EBB46436A2DB62C3D"
+        "MsmKey" = "8:_9D25C70ABDC64ACD8F5EBC2E041B24DA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_90F30A3A619072A3901E55180517BDD8"
-        "OwnerKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
+        "MsmKey" = "8:_AD730B28F411435AAB348A51E1D3BAB6"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -82,25 +82,25 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
+        "OwnerKey" = "8:_AD730B28F411435AAB348A51E1D3BAB6"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_90F30A3A619072A3901E55180517BDD8"
+        "OwnerKey" = "8:_18569F54D16AC15A9DDBBAF37F799666"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4A09BB018D287432E15F8E7393875FD4"
+        "OwnerKey" = "8:_3C6ED3A73A1D1A18D9A21E444FC9BC04"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_690A7C003CC0EB1C432B38B3A1C31254"
+        "OwnerKey" = "8:_7BC515BA2A622A5E2ECC0EACB593E73B"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -213,6 +213,57 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0626D3CE83C44E19895043D49A79A099"
+            {
+            "SourcePath" = "8:\\\\psf\\Home\\Documents\\Development\\pptVivo\\pptVivoAddin2007\\pptVivo2007Addin\\bin\\Release\\pptVivo2007Addin.dll.manifest"
+            "TargetName" = "8:pptVivo2007Addin.dll.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_18569F54D16AC15A9DDBBAF37F799666"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.v4.0.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_18569F54D16AC15A9DDBBAF37F799666"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_32915546CA384BAE8774381046FB72F5"
             {
             "SourcePath" = "8:Resources\\pptVivo_icon.ico"
@@ -233,14 +284,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4A09BB018D287432E15F8E7393875FD4"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3C6ED3A73A1D1A18D9A21E444FC9BC04"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_4A09BB018D287432E15F8E7393875FD4"
+                    "_3C6ED3A73A1D1A18D9A21E444FC9BC04"
                     {
                     "Name" = "8:Microsoft.VisualStudio.Tools.Applications.Runtime.dll"
                     "Attributes" = "3:512"
@@ -284,26 +335,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C5E0A0ABE2F4AE095BB464479688449"
-            {
-            "SourcePath" = "8:..\\pptVivo2007Addin\\bin\\Release\\pptVivo2007Addin.vsto"
-            "TargetName" = "8:pptVivo2007Addin.vsto"
-            "Tag" = "8:"
-            "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_68A9C1F144204FF2B7C32BB4FCF07712"
             {
             "SourcePath" = "8:Resources\\splash.bmp"
@@ -324,14 +355,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_690A7C003CC0EB1C432B38B3A1C31254"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7BC515BA2A622A5E2ECC0EACB593E73B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_690A7C003CC0EB1C432B38B3A1C31254"
+                    "_7BC515BA2A622A5E2ECC0EACB593E73B"
                     {
                     "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
                     "Attributes" = "3:512"
@@ -355,10 +386,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CC800794962470EBB46436A2DB62C3D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9D25C70ABDC64ACD8F5EBC2E041B24DA"
             {
-            "SourcePath" = "8:..\\pptVivo2007Addin\\bin\\Release\\pptVivo2007Addin.dll.manifest"
-            "TargetName" = "8:pptVivo2007Addin.dll.manifest"
+            "SourcePath" = "8:\\\\psf\\Home\\Documents\\Development\\pptVivo\\pptVivoAddin2007\\pptVivo2007Addin\\bin\\Release\\pptVivo2007Addin.vsto"
+            "TargetName" = "8:pptVivo2007Addin.vsto"
             "Tag" = "8:"
             "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
             "Condition" = "8:"
@@ -373,37 +404,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_90F30A3A619072A3901E55180517BDD8"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.v4.0.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_90F30A3A619072A3901E55180517BDD8"
-                    {
-                    "Name" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD324CCF54A3406CA4510C832E17AEA7"
@@ -498,7 +498,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:pptVivo! Addin"
         "ProductCode" = "8:{B6AC9A36-57FC-4C6D-9E8F-35A2B1FCAF63}"
-        "PackageCode" = "8:{260DC4D9-65BD-499A-9FC8-8771BEB1E0B5}"
+        "PackageCode" = "8:{A0801693-9433-4BD9-A383-0213BB9FA3F0}"
         "UpgradeCode" = "8:{9AF31E54-F598-43A7-A88A-B0F1B802054A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1165,9 +1165,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_460B2BF29FAE4C3B86EF1A9AC23FFFCD"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AD730B28F411435AAB348A51E1D3BAB6"
             {
-            "SourcePath" = "8:..\\pptVivo2007Addin\\obj\\Release\\pptVivo2007Addin.dll"
+            "SourcePath" = "8:\\\\psf\\Home\\Documents\\Development\\pptVivo\\pptVivoAddin2007\\pptVivo2007Addin\\obj\\Release\\pptVivo2007Addin.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_4D13E9BC9A084C6EB467FF34D32531AB"
@@ -1185,7 +1185,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
+            "OutputConfiguration" = "8:Release|Any CPU"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{55668379-689D-4CFE-941F-15160047DC77}"
             "ShowKeyOutput" = "11:TRUE"

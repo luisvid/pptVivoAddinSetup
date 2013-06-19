@@ -37,12 +37,13 @@ Section "" ;No components page, name is not important
 
   ; Set output path to the installation directory.
   SetOutPath "$INSTDIR\resources"
-  SetOverwrite off
+  SetOverwrite on
   
   ; Put file there
   File "setup.exe"
   File "pptVivo2007Setup.msi"
 
-  Exec "$INSTDIR\resources\setup.exe"  
+  Exec "$INSTDIR\resources\setup.exe" 
+
 
 SectionEnd ; end the section
